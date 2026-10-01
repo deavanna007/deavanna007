@@ -9,8 +9,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,35:E7C568,70:67E8D9,100:0B0F17&height=200&section=header&text=DEA%20VANNA&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Engineer&descSize=18&descAlignY=58" />
 
 <!-- Typing animation: self-hosted file in this repo (tab "Typing SVG" → Download → upload to assets/typing.svg) -->
-<img src="assets/typing.svg" alt="Typing animation" />
-
+<div align="center">
+  <img src="assets/typing.svg" alt="Typing animation" />
+</div>
 <br/>
 
 <img src="https://img.shields.io/badge/Open_to_Work-1F2937?style=for-the-badge&logo=handshake&logoColor=67E8D9" />
