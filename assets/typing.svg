@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="53" viewBox="0 0 520 53" role="img" aria-label="សួស្ដី! I'm Dea Vanna 👋. Full-Stack Developer &amp; UI Engineer. TypeScript • React • Node.js. Open to freelance &amp; collaboration ✨">
-  <title>សួស្ដី! I'm Dea Vanna 👋 · Full-Stack Developer &amp; UI Engineer · TypeScript • React • Node.js · Open to freelance &amp; collaboration ✨</title>
+  <title>Hello! I'm Dea Vanna 👋 · Full-Stack Developer &amp; UI Engineer · TypeScript • React • Node.js · Open to freelance &amp; collaboration ✨</title>
   <defs>
     <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
       <stop offset="0" stop-color="#E7C568"/>
@@ -27,7 +27,7 @@
     </clipPath>
   </defs>
   <g font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Khmer UI','Khmer Sangam MN','Noto Sans Khmer',monospace" font-size="24" font-weight="700" fill="url(#g)">
-    <text x="115" y="35" clip-path="url(#c0)">សួស្ដី! I'm Dea Vanna 👋</text>
+    <text x="115" y="35" clip-path="url(#c0)">Hello! I'm Dea Vanna 👋</text>
     <text x="36" y="35" clip-path="url(#c1)">Full-Stack Developer &amp; UI Engineer</text>
     <text x="75" y="35" clip-path="url(#c2)">TypeScript • React • Node.js</text>
     <text x="19" y="35" clip-path="url(#c3)">Open to freelance &amp; collaboration ✨</text>
