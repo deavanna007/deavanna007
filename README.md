@@ -1,156 +1,121 @@
-<!-- ═════════════════════════════════════════════════════════════════
-  ⚡ DEA VANNA (@deavanna007) · PREMIUM GITHUB PROFILE README
-  100% GitHub Markdown Compatible · Animated SVGs · No raw <style>
-  ═════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     ✦  deavanna007 — PREMIUM ANIMATED PROFILE README  ✦
+     ⚠ កុំប្រើ <style> ឬ CSS keyframes — GitHub លុបចោលទាំងអស់។
+        Animation ទាំងអស់ខាងក្រោមមកពី SVG service ខាងក្រៅ។
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- ANIMATED HEADER WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=DEA%20VANNA&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20CODER&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="DEA VANNA Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,35:E7C568,70:67E8D9,100:0B0F17&height=200&section=header&text=DEA%20VANNA&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Engineer&descSize=18&descAlignY=58" />
 
-  <!-- ANIMATED TYPING SVG TEXT -->
-  <a href="https://github.com/deavanna007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=E7C568&center=true&vCenter=true&random=false&width=620&height=50&lines=👋+Hello%2C+I'm+DEA+VANNA;🚀+Full-Stack+Web+Developer;💻+Building+Modern+%26+Fast+Web+Apps;⚡+JavaScript+%2F+TypeScript+%2F+React;✨+Turning+Ideas+Into+Clean+Reality" alt="Typing SVG" />
-  </a>
+<!-- Typing animation: self-hosted file in this repo (tab "Typing SVG" → Download → upload to assets/typing.svg) -->
+<img src="assets/typing.svg" alt="Typing animation" />
 
-  <p align="center">
-    <a href="https://github.com/deavanna007">
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Projects-67e8d9?style=for-the-badge&logo=statuspage&logoColor=000" alt="Status" />
-    </a>
-    <a href="https://github.com/deavanna007?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-11+-e7c568?style=for-the-badge&logo=github&logoColor=000" alt="Repositories" />
-    </a>
-    <a href="https://github.com/deavanna007?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-11-f472b6?style=for-the-badge&logo=github&logoColor=000" alt="Followers" />
-    </a>
-  </p>
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to_Work-1F2937?style=for-the-badge&logo=handshake&logoColor=67E8D9" />
+<img src="https://img.shields.io/badge/Based_in-Cambodia_🇰🇭-1F2937?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=deavanna007&label=PROFILE+VIEWS&color=E7C568&style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/deavanna007"><img src="https://img.shields.io/badge/GitHub-0B0F17?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
 
-### 🧑‍💻 <b>អំពីខ្ញុំ (About Me)</b>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: DEA VANNA
-alias: deavanna007
-pronouns: he/him
-focus: Full-Stack Web Development & Modern UI
-passions: Clean Code, Fast Performance, Micro-Interactions
-learning: Advanced TypeScript, React Ecosystem, Backend Architecture
-motto: "Ship fast, write clean code, keep polishing."
+> 👋 &nbsp;**Salam! I'm Deavanna** — a full-stack developer who turns messy ideas into clean, fast, beautiful interfaces.
+
+```ts
+const deavanna = {
+  name:        "Dea Vanna",
+  role:        "Full-Stack Developer & UI Engineer",
+  location:    "Cambodia 🇰🇭",
+  dailyDriver: ["TypeScript", "React", "Node.js", "Tailwind"],
+  learning:    "Rust & systems thinking",
+  building:    "open-source dev tools",
+  focusedOn:   ["web performance", "accessibility", "UI polish"],
+  motto:       "Ship small. Ship often. Ship beautiful.",
+};
 ```
 
-- 🇰🇭 Based in **Cambodia** 
-- 🚀 Passionate about creating seamless user experiences and full-stack solutions
-- 💬 Ask me about **Web Development, JavaScript, React, UI/UX**
-- ⚡ Fun fact: *I believe great design is just code that cares about details.*
-
----
-
-### 🛠️ <b>បច្ចេកវិទ្យា & ជំនាញ (Tech Stack)</b>
-
 <div align="center">
 
-#### **Frontend & UI**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-#### **Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### **Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+| ✦ Learning | ✦ Building | ✦ Focused on |
+|:---:|:---:|:---:|
+| Rust & systems thinking | open-source dev tools | web performance & UI polish |
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
 
-### 📊 <b>ស្ថិតិ & កម្រិតសកម្មភាព (GitHub Analytics)</b>
+## 📊 &nbsp;Code Stats
 
 <div align="center">
 
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <a href="https://github.com/deavanna007">
-          <img src="https://github-readme-stats.vercel.app/api?username=deavanna007&show_icons=true&theme=tokyonight&hide_border=false&border_color=e7c568&title_color=67e8d9&icon_color=e7c568&text_color=ffffff&bg_color=0d1117" width="100%" alt="DEA VANNA's GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/deavanna007">
-          <img src="https://streak-stats.demolab.com?user=deavanna007&theme=tokyonight&hide_border=false&border_color=67e8d9&fire=e7c568&ring=67e8d9&dates=ffffff&background=0d1117" width="100%" alt="DEA VANNA's Streak Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deavanna007&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=E7C568&icon_color=67E8D9&text_color=C6D0DD&ring_color=E7C568&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deavanna007&layout=compact&hide_border=true&bg_color=0B0F17&title_color=E7C568&text_color=C6D0DD&langs_count=8" />
 
-  <br />
+<img width="80%" src="https://streak-stats.demolab.com?user=deavanna007&hide_border=true&background=0B0F17&border=1F2937&stroke=1F2937&ring=E7C568&fire=67E8D9&currStreakLabel=E7C568&sideLabels=C6D0DD&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <a href="https://github.com/deavanna007">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deavanna007&layout=compact&theme=tokyonight&hide_border=false&border_color=e7c568&title_color=67e8d9&text_color=ffffff&bg_color=0d1117" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/deavanna007">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=deavanna007&bg_color=0d1117&color=e7c568&line=67e8d9&point=ffffff&area=true&hide_border=false&border_color=67e8d9" width="100%" alt="Activity Graph" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deavanna007&bg_color=0B0F17&color=E7C568&line=67E8D9&point=FFFFFF&area=true&area_color=E7C568&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
 
-### 🌐 <b>ទំនាក់ទំនង & បណ្តាញសង្គម (Connect with Me)</b>
+## 🧰 &nbsp;Toolbox
 
 <div align="center">
 
-  <a href="https://github.com/deavanna007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/deavanna007" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:deavanna007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,vite,python,php&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,docker,git,github,linux,figma&theme=dark" />
 
 </div>
 
-<br />
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
 
-<!-- FOOTER WAVE -->
+## 🏆 &nbsp;Trophies
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=110&section=footer" width="100%" alt="Footer Wave" />
-  <p align="center">
-    <i>✨ Crafted with care for <b>DEA VANNA</b> (@deavanna007) ✨</i>
-  </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deavanna007&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deavanna007/deavanna007/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deavanna007/deavanna007/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/deavanna007/deavanna007/output/snake.svg" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
+## 💬 &nbsp;Say Hello
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" />
+
+<br/>
+
+**⭐ Thanks for stopping by — let's build something beautiful together.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,35:67E8D9,70:E7C568,100:0B0F17&height=140&section=footer" />
+
 </div>
