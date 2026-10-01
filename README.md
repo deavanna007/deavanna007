@@ -30,7 +30,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-> 👋 &nbsp;**Salam! I'm Deavanna** — a full-stack developer who turns messy ideas into clean, fast, beautiful interfaces.
+> 👋 &nbsp;**Hello! I'm Dea Vanna** — a full-stack developer who turns messy ideas into clean, fast, beautiful interfaces.
 
 ```ts
 const deavanna = {
@@ -86,8 +86,7 @@ const deavanna = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deavanna007&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-
+<img src="https://github-trophies.devomb.com/?username=deavanna007&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
